@@ -1,5 +1,33 @@
 # Changelog
 
+## Release (2026-03-21)
+
+* ember-scoped-css 2.2.0 (minor)
+* stylelint-ember-scoped-css 1.0.2 (patch)
+
+#### :rocket: Enhancement
+* `ember-scoped-css`
+  * [#373](https://github.com/auditboard/ember-scoped-css/pull/373) Allow /routes/ to be relevant ([@evoactivity](https://github.com/evoactivity))
+
+#### :bug: Bug Fix
+* `ember-scoped-css`
+  * [#380](https://github.com/auditboard/ember-scoped-css/pull/380) Fix CSS file watching in Rollup/Vite ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+  * [#375](https://github.com/auditboard/ember-scoped-css/pull/375) Fix: allow scopedClass to be called in js/ts ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### :house: Internal
+* `ember-scoped-css`, `stylelint-ember-scoped-css`
+  * [#383](https://github.com/auditboard/ember-scoped-css/pull/383) Fix broken tests ([@evoactivity](https://github.com/evoactivity))
+* `ember-scoped-css`
+  * [#378](https://github.com/auditboard/ember-scoped-css/pull/378) Prepare Release ([@github-actions[bot]](https://github.com/apps/github-actions))
+  * [#376](https://github.com/auditboard/ember-scoped-css/pull/376) Prepare Release ([@github-actions[bot]](https://github.com/apps/github-actions))
+* Other
+  * [#377](https://github.com/auditboard/ember-scoped-css/pull/377) Add test with rollup-plugin-import-css ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 3
+- GitHub Actions [Bot] ([@github-actions](https://github.com/apps/github-actions))
+- Liam Potter ([@evoactivity](https://github.com/evoactivity))
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
+
 ## Release (2026-02-25)
 
 * ember-scoped-css 2.1.0 (minor)
